@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yelp</string>
+    <string name="keyword">KeyWord<font color='#FF0000'>*</font></string>
+    <string name="distance">distance<font color='#FF0000'>*</font></string>
+    <string name="category">Category<font color='#FF0000'>*</font></string>
+    <string name="location">location<font color='#FF0000'>*</font></string>
+</resources>

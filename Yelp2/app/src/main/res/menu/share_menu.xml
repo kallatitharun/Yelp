@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/facebook_item"
+        android:icon="@drawable/facebook"
+        android:title="facebook"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/twitter_item"
+        android:icon="@drawable/twitter"
+        android:title="twitter"
+        app:showAsAction="always"/>
+</menu>
